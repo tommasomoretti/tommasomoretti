@@ -1,6 +1,12 @@
-# Hi there 👋
-## Sub header 
-### Sub sub header
+# Hello friend
+
+My name is Tommaso and i'm an freelance data analyst from 🇮🇹.
+
+Reach me:
+  Website: https://tommasomoretti.com/  
+  Twitter: https://twitter.com/tommoretti88
+  Linkedin: https://www.linkedin.com/in/tommasomoretti/
+
 
 <!--
 **tommasomoretti/tommasomoretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
