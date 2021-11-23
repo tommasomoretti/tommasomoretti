@@ -1,11 +1,9 @@
 # Hello friend
 
-My name is Tommaso and i'm an freelance data analyst from 🇮🇹.
+My name is Tommaso and i'm an freelance data analyst from 🇮🇹
 
-Reach me:
-• Website: https://tommasomoretti.com/  
-• Twitter: https://twitter.com/tommoretti88
-• Linkedin: https://www.linkedin.com/in/tommasomoretti/
+[Website](https://tommasomoretti.com/) | [Twitter](https://twitter.com/tommoretti88) | [Linkedin](https://www.linkedin.com/in/tommasomoretti/)
+
 
 
 <!--
