@@ -1,8 +1,8 @@
-# Hello friend
+# Hello friend 
 
 My name is Tommaso and i'm a freelance data analyst from 🇮🇹.
 
-I ❤️ build cloud infrastructures for collect, store, analyse and visualize data.
+I ❤️ defining data strategies and build cloud infrastructures for collect, store, analyse and visualize data with Google Marketing Platform and Google Cloud Platform.
 
 ---
 
