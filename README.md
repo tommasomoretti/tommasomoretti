@@ -1,6 +1,6 @@
 # Hello friend
 
-My name is Tommaso and i'm a freelance data analyst from Italy 🇮🇹🇹
+My name is Tommaso and i'm a freelance data analyst from 🇮🇹.
 
 I ❤️ build cloud infrastructures for collect, store analyse and visualize data.
 
@@ -8,10 +8,10 @@ I ❤️ build cloud infrastructures for collect, store analyse and visualize da
 
 Here some tags I made for Google Tag Manager:
 
-- ### Client side
+- ### Client-side GTM Tags:
   - [HTTP POST/GET request sender](https://github.com/tommasomoretti/cs-http-tag): send HTTP POST and GET requests from a browser to an endpoint
 
-- ### Server side
+- ### Server-side GTM Tags:
   -  [HTTP POST/GET client](https://github.com/tommasomoretti/ss-http-client-tag): collect HTTP POST and GET requests
   -  HTTP POST/GET request sender: send HTTP POST and GET requests from server-side GTM to an endpoint
   -  [Google BigQuery data writer](https://github.com/tommasomoretti/ss-bq-tag): write data in realtime into Goole BigQuery
