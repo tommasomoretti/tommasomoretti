@@ -1,10 +1,12 @@
 # Hello friend
 
-My name is Tommaso and i'm a freelance data analyst from Italy 🇮🇹
+My name is Tommaso and i'm a freelance data analyst from Italy 🇮🇹🇹
+
+I ❤️ build cloud infrastructures for collect, store analyse and visualize data.
 
 ---
 
-Here some tags I made for GTM:
+Here some tags I made for Google Tag Manager:
 
 - ### Client side
   - [HTTP POST/GET request sender](https://github.com/tommasomoretti/cs-http-tag): send HTTP POST and GET requests from a browser to an endpoint
