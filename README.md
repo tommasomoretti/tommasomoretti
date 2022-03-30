@@ -10,18 +10,20 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
 
 Lorem ipsum
 
+---
+
 ## How to
 
-Deploying:
-- [Server-side GTM on App Engine](https://www.simoahava.com/analytics/provision-server-side-tagging-application-manually/#run-the-upgrade-script)
-- [Server-side GTM on Cloud Run](https://code.markedmondson.me/gtm-serverside-cloudrun/)
-- [Cloud Functions](https://cloud.google.com/functions/docs/deploying)
+- [Deploying server-side GTM on App Engine](https://www.simoahava.com/analytics/provision-server-side-tagging-application-manually/#run-the-upgrade-script)
+- [Deploying server-side GTM on Cloud Run](https://code.markedmondson.me/gtm-serverside-cloudrun/)
+- [Deploying AirByte on Compute Engine](https://docs.airbyte.com/deploying-airbyte/on-gcp-compute-engine)
+- [Deploying Cloud Functions](https://cloud.google.com/functions/docs/deploying)
+- [Create Cloud Scheduler cron job](https://cloud.google.com/scheduler/docs/creating)
+- [Create Cloud Pub/Sub topic]()
+- [Create Cloud Logging sinks](https://cloud.google.com/logging/docs/export/configure_export_v2)
+- [Create Cloud Storage bucket](https://cloud.google.com/storage/docs/creating-buckets)
 
-Configure:
-- [Cloud Scheduler](https://cloud.google.com/scheduler/docs/creating?hl=it)
-- [Cloud Pub/Sub topic]()
-- [Cloud Logging sinks](https://cloud.google.com/logging/docs/export/configure_export_v2)
-
+---
 
 ## Scripts
 
