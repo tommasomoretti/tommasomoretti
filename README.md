@@ -6,7 +6,7 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
 
 ---
 
-### Build a marketing data warehouse with Google Cloud Platform  
+### How to build a marketing data infrastructure with Google Cloud Platform
 
 ![GTM Custom Tag Templates](https://user-images.githubusercontent.com/29273232/160827688-cd8f9c62-b0cc-4a12-855d-04f54f094227.png)
 
