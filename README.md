@@ -1,4 +1,4 @@
-# Hello friend 
+# Hello friend 👋
 
 My name is Tommaso and i'm a freelance data analyst from 🇮🇹.
 
@@ -6,12 +6,15 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
 
 ---
 
-### How to build a marketing data infrastructure with Google Cloud Platform
+## Build a marketing data infrastructure with Google Cloud Platform
 
 ![GTM Custom Tag Templates](https://user-images.githubusercontent.com/29273232/160827688-cd8f9c62-b0cc-4a12-855d-04f54f094227.png)
 
+## Resources:
 
-Here some scripts I made for:
+Follow this guide if you want to deploy Google Tag Manager server-side on:
+- [App Engine](https://www.simoahava.com/analytics/provision-server-side-tagging-application-manually/#run-the-upgrade-script) 
+- [Cloud Run](https://code.markedmondson.me/gtm-serverside-cloudrun/) 
 
 ### Google Tag Manager
 
