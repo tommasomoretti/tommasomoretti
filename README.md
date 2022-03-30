@@ -2,7 +2,7 @@
 
 My name is Tommaso and i'm a freelance data analyst from 🇮🇹.
 
-I ❤️ build cloud infrastructures for collect, store analyse and visualize data.
+I ❤️ build cloud infrastructures for collect, store, analyse and visualize data.
 
 ---
 
