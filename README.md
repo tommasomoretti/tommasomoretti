@@ -8,13 +8,18 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
 
 ## Build a marketing data infrastructure with Google Cloud Platform
 
-![GTM Custom Tag Templates](https://user-images.githubusercontent.com/29273232/160827688-cd8f9c62-b0cc-4a12-855d-04f54f094227.png)
+Lorem ipsum
 
-## Resources:
+## How to
 
-Follow this guide if you want to deploy Google Tag Manager server-side on:
-- [App Engine](https://www.simoahava.com/analytics/provision-server-side-tagging-application-manually/#run-the-upgrade-script) 
-- [Cloud Run](https://code.markedmondson.me/gtm-serverside-cloudrun/) 
+Deploying:
+- [Server-side GTM on App Engine](https://www.simoahava.com/analytics/provision-server-side-tagging-application-manually/#run-the-upgrade-script)
+- [Server-side GTM on Cloud Run](https://code.markedmondson.me/gtm-serverside-cloudrun/)
+- [Cloud Functions](https://cloud.google.com/functions/docs/deploying)
+
+Configure:
+- [Cloud Scheduler](https://cloud.google.com/scheduler/docs/creating?hl=it)
+- 
 
 ### Google Tag Manager
 
