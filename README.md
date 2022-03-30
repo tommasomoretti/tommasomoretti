@@ -20,7 +20,7 @@ Deploying:
 Configure:
 - [Cloud Scheduler](https://cloud.google.com/scheduler/docs/creating?hl=it)
 - [Cloud Pub/Sub topic]()
-- [Cloud Logging Sink](https://cloud.google.com/logging/docs/export/configure_export_v2)
+- [Cloud Logging sinks](https://cloud.google.com/logging/docs/export/configure_export_v2)
 
 ### Google Tag Manager
 
