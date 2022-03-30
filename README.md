@@ -14,7 +14,7 @@ Lorem ipsum
 
 ## How to
 
-- [Deploying server-side GTM on App Engine](https://www.simoahava.com/analytics/provision-server-side-tagging-application-manually/#run-the-upgrade-script)
+- [Deploying server-side GTM on App Engine](https://www.simoahava.com/analytics/provision-server-side-tagging-application-manually/)
 - [Deploying server-side GTM on Cloud Run](https://code.markedmondson.me/gtm-serverside-cloudrun/)
 - [Deploying AirByte on Compute Engine](https://docs.airbyte.com/deploying-airbyte/on-gcp-compute-engine)
 - [Deploying Cloud Functions](https://cloud.google.com/functions/docs/deploying)
