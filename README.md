@@ -22,6 +22,9 @@ Configure:
 - [Cloud Pub/Sub topic]()
 - [Cloud Logging sinks](https://cloud.google.com/logging/docs/export/configure_export_v2)
 
+
+## Scripts
+
 ### Google Tag Manager
 
 - #### Client-side GTM Tags:
