@@ -15,8 +15,9 @@ Lorem ipsum
 ---
 
 ## How to
-
-- [Deploying server-side GTM on App Engine](https://www.simoahava.com/analytics/provision-server-side-tagging-application-manually/)
+- [Create Google Tag Manager client side container](https://developers.google.com/tag-platform/tag-manager/web) 
+- [Automatically deploy server-side GTM on App Engine](https://developers.google.com/tag-platform/tag-manager/server-side)
+- [Manually deploy server-side GTM on App Engine](https://www.simoahava.com/analytics/provision-server-side-tagging-application-manually/)
 - [Deploying server-side GTM on Cloud Run](https://code.markedmondson.me/gtm-serverside-cloudrun/)
 - [Deploying AirByte on Compute Engine](https://docs.airbyte.com/deploying-airbyte/on-gcp-compute-engine)
 - [Deploying Cloud Functions](https://cloud.google.com/functions/docs/deploying)
@@ -24,6 +25,9 @@ Lorem ipsum
 - [Create Cloud Pub/Sub topic]()
 - [Create Cloud Logging sinks](https://cloud.google.com/logging/docs/export/configure_export_v2)
 - [Create Cloud Storage bucket](https://cloud.google.com/storage/docs/creating-buckets)
+- [Create Cloud Firestore database]()
+- [Create BigQuery datasets](https://cloud.google.com/bigquery/docs/datasets)
+- [Create BigQuery tables](https://cloud.google.com/bigquery/docs/tables)
 
 ---
 
