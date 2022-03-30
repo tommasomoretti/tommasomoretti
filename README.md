@@ -4,6 +4,8 @@ My name is Tommaso and i'm a freelance data analyst from 🇮🇹.
 
 I ❤️ defining data strategies and build cloud infrastructures for collect, store, analyse and visualize data with Google Marketing Platform and Google Cloud Platform.
 
+![GTM Custom Tag Templates](https://user-images.githubusercontent.com/29273232/160827688-cd8f9c62-b0cc-4a12-855d-04f54f094227.png)
+
 ---
 
 Here some tags I made for Google Tag Manager:
