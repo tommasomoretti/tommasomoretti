@@ -21,6 +21,7 @@ Lorem ipsum
 - [Deploying server-side GTM on Cloud Run](https://code.markedmondson.me/gtm-serverside-cloudrun/)
 - [Deploying AirByte on Compute Engine](https://docs.airbyte.com/deploying-airbyte/on-gcp-compute-engine)
 - [Deploying Cloud Functions](https://cloud.google.com/functions/docs/deploying)
+- [Deploying AppScript functions](https://www.benlcollins.com/apps-script/google-apps-script-beginner-guide/)
 - [Create Cloud Scheduler cron job](https://cloud.google.com/scheduler/docs/creating)
 - [Create Cloud Pub/Sub topic]()
 - [Create Cloud Logging sinks](https://cloud.google.com/logging/docs/export/configure_export_v2)
