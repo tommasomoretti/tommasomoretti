@@ -10,6 +10,8 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
 
 Lorem ipsum
 
+![GCP](https://user-images.githubusercontent.com/29273232/160848531-88a2b427-1f7a-4a86-8a68-f0a3c466c1e2.png)
+
 ---
 
 ## How to
@@ -40,8 +42,12 @@ Lorem ipsum
   -  Google Cloud Storage data writer: write data in realtime into Google Cloud Storage
 
 ### Cloud Functions
-  - EL from GCS to BQ: extract and load data (CSV, JSON, Avro, Parquet, ORC) in scheduled/realtime from Google Cloud Storage (with versioning) to BigQuery tables
-  - Alerts: scheduled/realtime emails alert
+  - EL from GCS to BQ: extract and load data (CSV, JSON, Avro, Parquet, ORC) scheduled/in realtime from Google Cloud Storage (with versioning) to BigQuery tables
+  - Alerts: scheduled/in realtime emails alert
+
+### App Script
+  - EL from Google Sheets to BQ: extract and load data scheduled/on-demand from Google Sheets to BigQuery table.
+  - EL from Google Sheets to Cloud Storage: extract and load data scheduled/on-demand from Google Sheets to Gloud Storage file.
 
 ---
 
