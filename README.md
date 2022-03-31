@@ -31,6 +31,8 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
 - [Create BigQuery datasets](https://cloud.google.com/bigquery/docs/datasets)
 - [Create BigQuery tables](https://cloud.google.com/bigquery/docs/tables)
 - [Create BigQuery external tables](https://cloud.google.com/bigquery/external-data-sources)
+- [Query Google Analytics 4 export](https://www.ga4bigquery.com/tag/ga4-dimensions-metrics/)
+- [Query Google Analytics Universal export](https://www.ga4bigquery.com/tag/ua-dimensions-metrics/)
 
 ---
 
