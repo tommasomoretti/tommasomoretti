@@ -51,7 +51,7 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
   - Alerts: scheduled/in realtime emails alert
 
 ### App Script
-  - EL from Google Sheets to BQ: extract and load data scheduled/on-demand from Google Sheets to BigQuery table.
+  - [EL from Google Sheets to BQ](https://techandeco.medium.com/apps-script-tutorial-upload-to-a-database-sheets-bigquery-2fee3724f3ca): extract and load data scheduled/on-demand from Google Sheets to BigQuery table.
   - EL from Google Sheets to Cloud Storage: extract and load data scheduled/on-demand from Google Sheets to Gloud Storage file.
 
 ---
