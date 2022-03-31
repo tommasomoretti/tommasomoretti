@@ -8,7 +8,7 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
 
 ## Build a marketing data infrastructure with Google Cloud Platform
 
-Lorem ipsum
+🚧 This is a work in progress 🚧
 
 ![GCP](https://user-images.githubusercontent.com/29273232/160848531-88a2b427-1f7a-4a86-8a68-f0a3c466c1e2.png)
 
