@@ -10,7 +10,7 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
 
 🚧 This is a work in progress 🚧
 
-![GCP](https://user-images.githubusercontent.com/29273232/161065600-9684e4f0-d075-4010-bc05-aef6da6b31d2.png)
+![GCP Warehouse](https://user-images.githubusercontent.com/29273232/161068650-813f3639-b166-4310-bd14-35aa3a657dfa.png)
 
 ---
 
