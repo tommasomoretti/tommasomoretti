@@ -18,10 +18,11 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
 - [Create Google Tag Manager client side container](https://developers.google.com/tag-platform/tag-manager/web) 
 - [Automatically deploy server-side GTM on App Engine](https://developers.google.com/tag-platform/tag-manager/server-side)
 - [Manually deploy server-side GTM on App Engine](https://www.simoahava.com/analytics/provision-server-side-tagging-application-manually/)
-- [Deploying server-side GTM on Cloud Run](https://code.markedmondson.me/gtm-serverside-cloudrun/)
-- [Deploying AirByte on Compute Engine](https://docs.airbyte.com/deploying-airbyte/on-gcp-compute-engine)
-- [Deploying Cloud Functions](https://cloud.google.com/functions/docs/deploying)
-- [Deploying AppScript functions](https://www.benlcollins.com/apps-script/google-apps-script-beginner-guide/)
+- [Deploy server-side GTM on Cloud Run](https://code.markedmondson.me/gtm-serverside-cloudrun/)
+- [Deploy AirByte on Compute Engine](https://docs.airbyte.com/deploying-airbyte/on-gcp-compute-engine)
+- [Create scheduled snapshots for Persistent Disks](https://cloud.google.com/compute/docs/disks/scheduled-snapshots)
+- [Deploy Cloud Functions](https://cloud.google.com/functions/docs/deploying)
+- [Deploy AppScript functions](https://www.benlcollins.com/apps-script/google-apps-script-beginner-guide/)
 - [Create Cloud Scheduler cron job](https://cloud.google.com/scheduler/docs/creating)
 - [Create Cloud Pub/Sub topic]()
 - [Create Cloud Logging sinks](https://cloud.google.com/logging/docs/export/configure_export_v2)
@@ -29,6 +30,7 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
 - [Create Cloud Firestore database]()
 - [Create BigQuery datasets](https://cloud.google.com/bigquery/docs/datasets)
 - [Create BigQuery tables](https://cloud.google.com/bigquery/docs/tables)
+- [Create BigQuery external tables](https://cloud.google.com/bigquery/external-data-sources)
 
 ---
 
