@@ -62,11 +62,12 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
   - [Create Cloud Logging sinks](https://cloud.google.com/logging/docs/export/configure_export_v2)
 
 - Pub/sub:
-  - [Create Cloud Pub/Sub topic]()
+  - [Create Cloud Pub/Sub topic](https://cloud.google.com/pubsub/architecture)
 
 - Storage:
   - [Create Cloud Storage bucket](https://cloud.google.com/storage/docs/creating-buckets)
-  - [Create Cloud Firestore database]()
+  - [Create Cloud Firestore database](https://cloud.google.com/firestore/docs/data-model?hl=it)
+  - [Create Stream Collections to BigQuery](https://firebase.google.com/products/extensions/firebase-firestore-bigquery-export)
 
 - BigQuery:
   - [Create BigQuery datasets](https://cloud.google.com/bigquery/docs/datasets)
