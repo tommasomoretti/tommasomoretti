@@ -57,9 +57,12 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
 - Cloud Scheduler:
   - [Create Cloud Scheduler cron job](https://cloud.google.com/scheduler/docs/creating)
 
+- Cloud Logging
+  - [Query Cloud Logging logs with Logs Explorer](https://cloud.google.com/logging/docs/view/logs-explorer-interface) 
+  - [Create Cloud Logging sinks](https://cloud.google.com/logging/docs/export/configure_export_v2)
+
 - Pub/sub:
   - [Create Cloud Pub/Sub topic]()
-  - [Create Cloud Logging sinks](https://cloud.google.com/logging/docs/export/configure_export_v2)
 
 - Storage:
   - [Create Cloud Storage bucket](https://cloud.google.com/storage/docs/creating-buckets)
