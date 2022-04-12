@@ -42,7 +42,8 @@ Here some datasets i published on Cloud Analytics Hub:
   - #### Server-side GTM:
     - [Create Google Tag Manager server side container](https://developers.google.com/tag-platform/tag-manager/server-side#create_a_tag_manager_server_container)
     - [Automatically deploy server-side GTM on App Engine](https://developers.google.com/tag-platform/tag-manager/server-side/script-user-guide)
-    - [Manually deploy server-side GTM on App Engine](https://developers.google.com/tag-platform/tag-manager/server-side/script-user-guide) or let [Simo Ahava](https://www.simoahava.com/analytics/provision-server-side-tagging-application-manually/) guides you
+    - [Manually deploy server-side GTM on App Engine](https://developers.google.com/tag-platform/tag-manager/server-side/script-user-guide)
+    - [Manually deploy server-side GTM on App Engine](https://www.simoahava.com/analytics/provision-server-side-tagging-application-manually/) with Simo Ahava
     - [Deploy server-side GTM on Cloud Run](https://code.markedmondson.me/gtm-serverside-cloudrun/) with Mark Edmondson
     - [Import GTM custom template](https://developers.google.com/tag-platform/tag-manager/templates#export_and_import)
 
