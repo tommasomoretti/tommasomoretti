@@ -48,8 +48,9 @@ Here some datasets i published on Cloud Analytics Hub:
     - [Import GTM custom template](https://developers.google.com/tag-platform/tag-manager/templates#export_and_import)
 
 ### Compute engine:
-  - [Create and deploy AirByte on Compute Engine](https://docs.airbyte.com/deploying-airbyte/on-gcp-compute-engine)
-  - [Create scheduled snapshots for Persistent Disks](https://cloud.google.com/compute/docs/disks/scheduled-snapshots)
+  - [Create and manage Compute Engine VM instances](https://cloud.google.com/compute/docs/instances/create-start-instance)
+  - [Deploy and manage AirByte on Compute Engine](https://docs.airbyte.com/deploying-airbyte/on-gcp-compute-engine)
+  - [Create and manage scheduled snapshots for Persistent Disks](https://cloud.google.com/compute/docs/disks/scheduled-snapshots)
 
 ### Cloud functions:
   - [Deploy Cloud Functions](https://cloud.google.com/functions/docs/deploying)
@@ -58,24 +59,25 @@ Here some datasets i published on Cloud Analytics Hub:
   - [Deploy AppScript functions](https://www.benlcollins.com/apps-script/google-apps-script-beginner-guide/)
  
 ### Cloud Scheduler:
-  - [Create Cloud Scheduler cron job](https://cloud.google.com/scheduler/docs/creating)
+  - [Create and manage Cloud Scheduler cron job](https://cloud.google.com/scheduler/docs/creating)
 
 ### Cloud Logging:
   - [Query Cloud Logging logs with Logs Explorer](https://cloud.google.com/logging/docs/view/logs-explorer-interface) 
-  - [Create Cloud Logging sinks](https://cloud.google.com/logging/docs/export/configure_export_v2)
+  - [Create and manage Cloud Logging sinks](https://cloud.google.com/logging/docs/export/configure_export_v2)
 
 ### Pub/sub:
-  - [Create Cloud Pub/Sub topic](https://cloud.google.com/pubsub/architecture)
+  - [Create and manage Cloud Pub/Sub topic](https://cloud.google.com/pubsub/docs/admin)
+  - [Create and manage Cloud Pub/Sub subscription](https://cloud.google.com/pubsub/docs/create-subscription)
 
 ### Storage:
-  - [Create Cloud Storage bucket](https://cloud.google.com/storage/docs/creating-buckets)
-  - [Create Cloud Firestore database](https://cloud.google.com/firestore/docs/data-model?hl=it)
-  - [Create Stream Collections to BigQuery](https://firebase.google.com/products/extensions/firebase-firestore-bigquery-export)
+  - [Create and manage Cloud Storage bucket](https://cloud.google.com/storage/docs/creating-buckets)
+  - [Create and manage Cloud Firestore database](https://cloud.google.com/firestore/docs/data-model?hl=it)
+  - [Create and manage Stream Collections to BigQuery](https://firebase.google.com/products/extensions/firebase-firestore-bigquery-export)
 
 ### BigQuery:
-  - [Create BigQuery datasets](https://cloud.google.com/bigquery/docs/datasets)
-  - [Create BigQuery tables](https://cloud.google.com/bigquery/docs/tables)
-  - [Create BigQuery external tables](https://cloud.google.com/bigquery/external-data-sources)
+  - [Create and manage BigQuery datasets](https://cloud.google.com/bigquery/docs/datasets)
+  - [Create and manage BigQuery tables](https://cloud.google.com/bigquery/docs/tables)
+  - [Create and manage BigQuery external tables](https://cloud.google.com/bigquery/external-data-sources)
   - [Query Google Analytics 4 export](https://www.ga4bigquery.com/tag/ga4-dimensions-metrics/)
   - [Query Google Analytics Universal export](https://www.ga4bigquery.com/tag/ua-dimensions-metrics/)
 
