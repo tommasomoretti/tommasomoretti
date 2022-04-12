@@ -35,7 +35,7 @@ Here some datasets i published on Cloud Analytics Hub:
   - [Google Cloud Developer cheat sheet](https://googlecloudcheatsheet.withgoogle.com/)
 
 ## How to:
-### Server-side GTM:
+### Google Tag Manager:
   - #### Client-side GTM:
     - [Create Google Tag Manager client side container](https://developers.google.com/tag-platform/tag-manager/web) 
 
