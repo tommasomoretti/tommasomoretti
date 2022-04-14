@@ -40,6 +40,10 @@ Here some datasets i published on Cloud Analytics Hub:
 ### Google Tag Manager:
   - #### Client-side GTM:
     - [Create Google Tag Manager client side container](https://developers.google.com/tag-platform/tag-manager/web) 
+    - [Google Consent Mode](https://support.google.com/analytics/answer/9976101) and [how it affects the way Google Analytics records data](https://adswerve.com/blog/how-consent-mode-affects-the-way-google-analytics-records-data/)
+    - [Google Consent Mode for websites](https://developers.google.com/tag-platform/devguides/consent#tag-manager)
+    - [Google Consent Mode for iOS apps](https://developers.google.com/tag-platform/devguides/app-consent?platform=ios)
+    - [Google Consent Mode for Android apps](https://developers.google.com/tag-platform/devguides/app-consent?platform=android)
 
   - #### Server-side GTM:
     - [Create Google Tag Manager server side container](https://developers.google.com/tag-platform/tag-manager/server-side#create_a_tag_manager_server_container)
