@@ -6,11 +6,11 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
 
 Here some dashboards i made with Data Studio:
 - [All space missions](https://datastudio.google.com/u/0/reporting/c013eca9-9d6f-4fbe-89cd-2e7357a48724/)
-- [All LEGO minifigures](https://datastudio.google.com/u/0/reporting/747a8c57-a584-42f5-8241-31c8b65bdfb8/)
+- [All LEGO minifigures]()
 
 Here some datasets i published on Cloud Analytics Hub:
 - [All space missions](https://console.cloud.google.com/bigquery(analyticshub:projects/927812107311/locations/eu/dataExchanges/all_space_missions_1801cd49715/listings/all_space_missions_1801cd9607d))
-- [All LEGO minifigures](https://console.cloud.google.com/bigquery(analyticshub:projects/927812107311/locations/eu/dataExchanges/all_space_missions_1801cd49715/listings/lego_1801ce395ce))
+- [All LEGO minifigures]()
 
 ---
 
