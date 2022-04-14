@@ -33,6 +33,8 @@ Here some datasets i published on Cloud Analytics Hub:
   - [Google Cloud overview](https://cloud.google.com/docs/overview)
   - [Google Cloud products](https://cloud.google.com/products)
   - [Google Cloud Developer cheat sheet](https://googlecloudcheatsheet.withgoogle.com/)
+  - [Visualizing Google Cloud by Priyanka Vergadia](https://twitter.com/pvergadia/status/1507039794592899078)
+  - [Google Cloud Architecture Diagramming Tool](https://googlecloudcheatsheet.withgoogle.com/architecture)
 
 ## How to:
 ### Google Tag Manager:
