@@ -15,7 +15,7 @@ Here some datasets i published on Cloud Analytics Hub:
 ## Build a marketing data infrastructure with Google Cloud Platform
 
 ### Disclaimer:
-🚧 This is a work in progress
+🚧 This is a work in progress.
 
 👨🏻‍💻 I'm not a professional developer and sometimes my script code may not be as good as it should be. But I assure you it works very well 😁
 
@@ -32,7 +32,7 @@ Here some datasets i published on Cloud Analytics Hub:
   - [Google Cloud overview](https://cloud.google.com/docs/overview)
   - [Google Cloud products](https://cloud.google.com/products)
   - [Google Cloud Developer cheat sheet](https://googlecloudcheatsheet.withgoogle.com/)
-  - [Visualizing Google Cloud by Priyanka Vergadia](https://twitter.com/pvergadia/status/1507039794592899078)
+  - [Visualizing Google Cloud](https://twitter.com/pvergadia/status/1507039794592899078) by [Priyanka Vergadia](https://twitter.com/pvergadia)
   - [Google Cloud Architecture Diagramming Tool](https://googlecloudcheatsheet.withgoogle.com/architecture)
 
 ## How to:
@@ -48,8 +48,8 @@ Here some datasets i published on Cloud Analytics Hub:
     - [Create Google Tag Manager server side container](https://developers.google.com/tag-platform/tag-manager/server-side#create_a_tag_manager_server_container)
     - [Automatically deploy server-side GTM on App Engine](https://developers.google.com/tag-platform/tag-manager/server-side/script-user-guide)
     - [Manually deploy server-side GTM on App Engine](https://developers.google.com/tag-platform/tag-manager/server-side/script-user-guide)
-    - [Manually deploy server-side GTM on App Engine](https://www.simoahava.com/analytics/provision-server-side-tagging-application-manually/) with Simo Ahava
-    - [Deploy server-side GTM on Cloud Run](https://code.markedmondson.me/gtm-serverside-cloudrun/) with Mark Edmondson
+    - [Manually deploy server-side GTM on App Engine](https://www.simoahava.com/analytics/provision-server-side-tagging-application-manually/) with [Simo Ahava](https://twitter.com/simoahava)
+    - [Deploy server-side GTM on Cloud Run](https://code.markedmondson.me/gtm-serverside-cloudrun/) with [Mark Edmondson](https://twitter.com/holomarked)
     - [Import GTM custom template](https://developers.google.com/tag-platform/tag-manager/templates#export_and_import)
 
 ### Compute engine:
