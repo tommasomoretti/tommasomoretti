@@ -12,7 +12,7 @@ Here some datasets i published on Cloud Analytics Hub:
 
 ---
 
-## Build a marketing data infrastructure with Google Cloud Platform
+## Build a marketing data infrastructure with Google Cloud
 
 ### Disclaimer:
 🚧 This is a work in progress.
@@ -28,7 +28,7 @@ Here some datasets i published on Cloud Analytics Hub:
 ---
 
 ## Get start:
-### Google Cloud Platform:
+### Google Cloud:
   - [Google Cloud overview](https://cloud.google.com/docs/overview)
   - [Google Cloud products](https://cloud.google.com/products)
   - [Google Cloud Developer cheat sheet](https://googlecloudcheatsheet.withgoogle.com/)
