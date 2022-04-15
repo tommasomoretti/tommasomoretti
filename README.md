@@ -14,9 +14,10 @@ Here some datasets i published on Cloud Analytics Hub:
 
 ## Build a marketing data infrastructure with Google Cloud Platform
 
-**WARNING: This is a work in progress** 🚧
+### Disclaimer:
+🚧 This is a work in progress
 
-
+👨🏻‍💻 I'm not a professional developer and sometimes my script code may not be as good as it should be. But I assure you it works very well 😁
 
 ---
 
@@ -82,8 +83,8 @@ Here some datasets i published on Cloud Analytics Hub:
   - [Create and manage BigQuery datasets](https://cloud.google.com/bigquery/docs/datasets)
   - [Create and manage BigQuery tables](https://cloud.google.com/bigquery/docs/tables)
   - [Create and manage BigQuery external tables](https://cloud.google.com/bigquery/external-data-sources)
-  - [Query Google Analytics 4 export](https://www.ga4bigquery.com/tag/ga4-dimensions-metrics/)
-  - [Query Google Analytics Universal export](https://www.ga4bigquery.com/tag/ua-dimensions-metrics/)
+  - [Query Google Analytics 4 export data](https://www.ga4bigquery.com/tag/ga4-dimensions-metrics/)
+  - [Query Google Analytics Universal export data](https://www.ga4bigquery.com/tag/ua-dimensions-metrics/)
 
 ---
 
