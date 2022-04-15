@@ -17,7 +17,7 @@ Here some datasets i published on Cloud Analytics Hub:
 ### Disclaimer:
 🚧 This is a work in progress.
 
-👨🏻‍💻 I'm not a professional developer and sometimes my script code may not be as good as it should be. But I assure you it works very well 😁
+👨🏻‍💻 I'm not a professional developer and sometimes my script code may not be as good as it should be.
 
 ---
 
@@ -97,7 +97,7 @@ Here some datasets i published on Cloud Analytics Hub:
 
 - #### Server-side GTM Tags:
   -  [HTTP POST/GET client](https://github.com/tommasomoretti/ss-http-client-tag): collect HTTP POST and GET requests
-  -  HTTP POST/GET request sender: send HTTP POST and GET requests from server-side GTM to an endpoint
+  -  [HTTP POST/GET request sender](https://github.com/tommasomoretti/ss-http-tag): send HTTP POST and GET requests from server-side GTM to an endpoint
   -  [Google BigQuery data writer](https://github.com/tommasomoretti/ss-bq-tag): write data in realtime into Goole BigQuery
   -  [Google Cloud Firestore data writer](https://github.com/tommasomoretti/ss-fs-tag): write data in realtime into Google Cloud Firestore
   -  Google Cloud Storage data writer: write data in realtime into Google Cloud Storage
