@@ -4,7 +4,7 @@ My name is Tommaso and i'm a freelance data analyst from 🇮🇹.
 
 I ❤️ defining data strategies and build cloud infrastructures for collect, store, analyse and visualize data with Google Marketing Platform and Google Cloud Platform.
 
-Here some personal projects i made with Coogle Cloud Platform:
+Here some projects i made with Coogle Cloud Platform:
 - [Build a marketing data infrastructure with Google Cloud](https://github.com/tommasomoretti/build-data-warehouse-gcp/)
 
 Here some dashboards i made with Data Studio:
