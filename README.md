@@ -4,9 +4,6 @@ My name is Tommaso and i'm a freelance data analyst from 🇮🇹.
 
 I ❤️ defining data strategies and build cloud infrastructures for collect, store, analyse and visualize data with Google Marketing Platform and Google Cloud Platform.
 
-Here some custom templates i made for Google Tag Manager:
-- Custom Analytics: Event analytics [tracker](https://github.com/tommasomoretti/cs-tracker) and [client](https://github.com/tommasomoretti/ss-client) for Google Tag Manager and BigQuery
-
 Here some dashboards i made with Data Studio:
 - [All space missions](https://datastudio.google.com/u/0/reporting/c013eca9-9d6f-4fbe-89cd-2e7357a48724/)
 
