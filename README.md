@@ -7,6 +7,7 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
 Here some solutions i made with Google Cloud:
 - [Copy GA4 events tables into a single partitioned table and then run Dataform creating or updating a datamodel](https://github.com/tommasomoretti/dataform)
 - [Load CSV files from your server (or computer) into Cloud Storage and then load them into BigQuery](https://github.com/tommasomoretti/dataform)
+- [Publish Google Tag Manager containers on schedule](https://github.com/tommasomoretti/dataform)
 - [Make your own analytics tracking platform with Google Tag Manager and Google BigQuery](https://github.com/tommasomoretti/dataform)
 
 Here some dashboards i made with Data Studio:
