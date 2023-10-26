@@ -10,7 +10,7 @@ Here some solutions i made with Google Cloud:
 - [Make your own analytics tracking platform with Google Tag Manager and Google BigQuery](https://github.com/tommasomoretti/dataform)
 
 Here some dashboards i made with Data Studio:
-- [All space missions](https://datastudio.google.com/u/0/reporting/c013eca9-9d6f-4fbe-89cd-2e7357a48724/)
+- [All space missions](https://datastudio.google.com/u/0/reporting/c013eca9-9d6f-4fbe-89cd-2e7357a48724/){:target="_blank"}
 
 Here some datasets i published on Cloud Analytics Hub:
 - [All space missions](https://console.cloud.google.com/bigquery(analyticshub:projects/927812107311/locations/eu/dataExchanges/all_space_missions_1801cd49715/listings/all_space_missions_1801cd9607d)) from [Next Spaceflight](https://nextspaceflight.com/)
