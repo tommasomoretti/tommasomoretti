@@ -2,7 +2,7 @@
 
 My name is Tommaso and i'm a freelance data analyst from 🇮🇹.
 
-I ❤️ defining data strategies and build cloud infrastructures for collect, store, analyse and visualize data with Google Marketing Platform and Google Cloud Platform.
+I ❤️ defining data strategies and build cloud infrastructures for collect, store, analyze and visualize data with Google Marketing Platform and Google Cloud Platform.
 
 Here some solutions i made with Google Cloud:
 - [Copy GA4 events tables into a single partitioned table and then run Dataform creating or updating a datamodel](https://github.com/tommasomoretti/dataform)
