@@ -5,10 +5,10 @@ My name is Tommaso and i'm a freelance data analyst from 🇮🇹.
 I ❤️ defining data strategies and build cloud infrastructures for collect, store, analyze and visualize data with Google Marketing Platform and Google Cloud Platform.
 
 Here some solutions i made with Google Cloud:
-- [Copy GA4 events tables into a single partitioned table and then run Dataform creating or updating a datamodel](https://github.com/tommasomoretti/dataform)
-- [Load CSV files from your server (or computer) into Cloud Storage and then load them into BigQuery](https://github.com/tommasomoretti/dataform)
-- [Publish Google Tag Manager workspace on schedule](https://github.com/tommasomoretti/dataform)
-- [Make your own analytics tracking platform with Google Tag Manager and Google BigQuery](https://github.com/tommasomoretti/dataform)
+- [🚧 WIP - Copy GA4 events tables into a single partitioned table and then run Dataform creating or updating a datamodel](https://github.com/tommasomoretti/dataform)
+- [🚧 WIP - Load CSV files from your server (or computer) into Cloud Storage and then load them into BigQuery](https://github.com/tommasomoretti/dataform)
+- [🚧 WIP - Publish Google Tag Manager workspace on schedule](https://github.com/tommasomoretti/dataform)
+- [🚧 WIP - Make your own analytics tracking platform with Google Tag Manager and Google BigQuery](https://github.com/tommasomoretti/dataform)
 
 Here some dashboards i made with Data Studio:
 - [All space missions](https://datastudio.google.com/u/0/reporting/c013eca9-9d6f-4fbe-89cd-2e7357a48724/)
