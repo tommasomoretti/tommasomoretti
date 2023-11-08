@@ -8,7 +8,7 @@ Here some solutions i made with Google Cloud:
 - [🚧 WIP - Publish Google Tag Manager workspace on schedule](https://github.com/tommasomoretti/gtm-scheduled-deploy)
 - [🚧 WIP - Run a BigQuery scheduled query at a certain time with Cloud Scheduler or after a certain event with Cloud Workflows](https://github.com/tommasomoretti/scheduled-query)
 - [🚧 WIP - Make your own custom analytics tracking platform with Google Tag Manager and BigQuery](https://github.com/tommasomoretti/custom-analytics)
-- [🚧 WIP - Copy Google Analytics 4 events tables into a single partitioned table and then run Cloud Dataform creating or updating a datamodel](https://github.com/tommasomoretti/dataform-ga4)
+- [🚧 WIP - Copy GA4 events tables into a single partitioned table and then run Cloud Dataform creating or updating a datamodel](https://github.com/tommasomoretti/dataform-ga4)
 - [🚧 WIP - Load CSV files from your server (or computer) into Cloud Storage and then load them into BigQuery](https://github.com/tommasomoretti/cloud-storage-csv-to-bq)
 
 Here some dashboards i made with Data Studio:
