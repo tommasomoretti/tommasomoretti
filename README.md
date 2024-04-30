@@ -7,7 +7,7 @@ I ❤️ defining data strategies and build cloud infrastructures for collect, s
 Here some solutions i made with Google Cloud Platform:
 - [🚧 WIP - Make your own custom analytics platform with Google Tag Manager and BigQuery](https://github.com/tommasomoretti/nameless-analytics)
 - [🚧 WIP - Run a BigQuery scheduled query after a certain event with Cloud Workflows](https://github.com/tommasomoretti/run-scheduled-query-with-cloud-workflows)
-- [🚧 WIP - Publish Google Tag Manager workspace on schedule](https://github.com/tommasomoretti/gtm-scheduled-deploy)
+- [🚧 WIP - Publish Google Tag Manager workspace on schedule](https://github.com/tommasomoretti/publish-scheduled-gtm-container)
 
 Here some dashboards i made with Google Looker Studio:
 - [All space missions](https://datastudio.google.com/u/0/reporting/c013eca9-9d6f-4fbe-89cd-2e7357a48724/)
