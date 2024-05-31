@@ -5,8 +5,8 @@ My name is Tommaso and i'm a freelance data analyst from 🇮🇹.
 I ❤️ defining data strategies and build cloud infrastructures for collect, store, analyze and visualize data with Google Marketing Platform and Google Cloud Platform.
 
 Here some solutions i made with Google Cloud Platform:
-- [🚧 WIP - Nameless Analytics - A custom analytics platform with Google Tag Manager and BigQuery](https://github.com/tommasomoretti/nameless-analytics)
-- [🚧 WIP - GTM scheduler - Publish Google Tag Manager workspace on schedule](https://github.com/tommasomoretti/publish-scheduled-gtm-container)
+- [🚧 WIP - Nameless Analytics: A custom analytics platform with Google Tag Manager and BigQuery](https://github.com/tommasomoretti/nameless-analytics)
+- [GTM scheduler: Publish Google Tag Manager workspace on schedule](https://github.com/tommasomoretti/publish-scheduled-gtm-container)
 
 
 Here some dashboards i made with Google Looker Studio:
