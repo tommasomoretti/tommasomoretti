@@ -2,7 +2,7 @@
 
 My name is Tommaso and i'm a freelance data analyst from 🇮🇹.
 
-I ❤️ defining data strategies and build cloud infrastructures for collect, store, analyze and visualize data with Google Marketing Platform and Google Cloud Platform.
+I love defining data strategies and build cloud infrastructures for collect, store, analyze and visualize data with Google Marketing Platform and Google Cloud Platform.
 
 Here some solutions i made with Google Cloud Platform:
 - [Nameless Analytics (Beta version 1.0): A custom analytics platform for Google Tag Manager and BigQuery](https://github.com/tommasomoretti/nameless-analytics)
