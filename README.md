@@ -5,7 +5,7 @@ My name is Tommaso and i'm a freelance data analyst from 🇮🇹.
 I love defining data strategies and build cloud infrastructures for collect, store, analyze and visualize data with Google Marketing Platform and Google Cloud Platform.
 
 Here some solutions i made with Google Cloud Platform:
-- [Nameless Analytics (Beta version 1.0): A custom web analytics platform for Google Tag Manager and Google Cloud Platform](https://github.com/tommasomoretti/nameless-analytics)
+- [Nameless Analytics (Beta version 1.0): A custom web analytics platform for Google Tag Manager and Google Cloud Platform](https://github.com/nameless-analytics/nameless-analytics)
 
 Here some dashboards i made with Google Looker Studio:
 - [Nameless Analytics Online dashboard](https://lookerstudio.google.com/u/0/reporting/d4a86b2c-417d-4d4d-9ac5-281dca9d1abe/page/p_ebkun2sknd)
