@@ -13,4 +13,4 @@ Here some dashboards i made with Google Looker Studio:
 
 ---
 
-Reach me at: [Email](mailto:hello@tommasomoretti.com) | [Website](https://tommasomoretti.com/?utm_source=github.com&utm_medium=referral&utm_campaign=profile) | [Twitter](https://twitter.com/tommoretti88) | [Linkedin](https://www.linkedin.com/in/tommasomoretti/)
+Reach me at: [Email](mailto:hello@tommasomoretti.com) | [Website](https://tommasomoretti.com/?utm_source=github.com&utm_medium=referral&utm_campaign=profile) | [Twitter](https://x.com/tommoretti88) | [Linkedin](https://www.linkedin.com/in/tommasomoretti/)
